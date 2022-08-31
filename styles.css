@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  background-color: rgba(235, 161, 0, 0.904);
+  margin: 10% auto;
+  max-width: 60%;
+}
+h1 {
+  padding: 1rem 0.5rem 0rem 1rem;
+}
+.App p {
+  padding: 0rem 1rem;
+}
+img{
+  height: 100px;
+  width:100px;
+  border: solid 0.5px rgba(235, 161, 0, 0.904);;
+  border-radius: 2rem;
+  padding:0.5rem;
+  margin: 1rem 0.5rem 0rem;
+}
+#rating{
+  font-weight:bold;
+}
+body {
+  background-image: url("https://images.unsplash.com/photo-1593430980369-68efc5a5eb34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1485&q=80");
+}
+ul {
+  list-style: none;
+  padding: 1rem 1rem;
+  background-color: rgba(240, 222, 150, 0.993);
+}
+button {
+  padding: 0.5em;
+  margin: 0.2rem 0.2rem 0.2rem 1em;
+  border-radius: 1.5rem;
+  background-color: rgba(240, 222, 150, 0.993);
+  font-weight: bolder;
+}
+
+ul div {
+  font-size: 1.2rem;
+  background-color: rgb(233, 193, 16);
+  color: rgb(53, 50, 50);
+}
+ul p {
+  font-size: 1rem;
+}
